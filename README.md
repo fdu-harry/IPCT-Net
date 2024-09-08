@@ -1,1 +1,1 @@
-![image](https://github.com/fdu-harry/ECG-MEE-metric/blob/main/IPCT-Net.jpg)
+![image](https://github.com/fdu-harry/IPCT-Net/blob/main/IPCT-Net.jpg)
